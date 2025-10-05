@@ -1,0 +1,24 @@
+# Node / JS
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# Environment files (do NOT commit secrets)
+.env
+.env.* 
+.env.local
+.env.production
+
+# Local IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs, coverage
+*.log
+coverage/
+
+# Mac/Windows metadata
+Thumbs.db
